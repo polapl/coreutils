@@ -54,6 +54,7 @@ PROGS       := \
   env \
   du \
   expand \
+  expr \
   factor \
   false \
   fmt \
